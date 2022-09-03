@@ -1,0 +1,273 @@
+.niche{
+    display: grid;
+    grid-template-columns: repeat(13,1fr);
+    grid-template-rows: repeat(12,1fr);
+    background-color: #004B91;
+}
+.nicheseupar{
+    grid-area: 1/1/13/14;
+    height: 3.5vw;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.yutop0931{
+    font-size: 2.2vw;
+    font-weight: 300;
+    color: #fff;
+    font-family: "Amazon Ember",Arial,sans-serif;
+letter-spacing: 0.1vw;
+word-spacing: 0.1vw;
+white-space: nowrap;
+}
+.nicheseupar:hover{
+    background-color: #052c51;
+}
+.footer1{
+    height: 28vw;
+    display: grid;
+    background-color: #232F3E;
+    grid-template-columns: repeat(19,1fr);
+    grid-template-rows: repeat(15,1fr);
+    border-bottom: 0.01px solid rgb(155, 153, 153);
+}
+.footer2{
+    display: flex;
+    gap: 6.5vw;
+    grid-area: 3/2/13/17;
+}
+.footer23{
+    display: flex;
+    gap: 2.5vw;
+    flex-direction: column;
+
+}
+.footer234{
+display: flex;
+align-items: center;
+
+}
+.heading34{
+    color: #fff;
+    white-space: nowrap;
+
+    font-family: "Amazon Ember",Arial,sans-serif;
+    font-weight: 700;
+    font-size: 2.1vw;
+}
+.footer456{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2vw;
+}
+.subtitle{
+    white-space: nowrap;
+    color: azure;
+    font-size: 1.1vw;
+    font-weight: 500;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    word-spacing: 0.1vw;
+    letter-spacing: 0.1vw;
+
+}
+.secondfoo5432{
+    display: grid;
+    grid-template-rows: repeat(5,1fr);
+    grid-template-columns: repeat(19,1fr);
+    background-color: #232F3E;
+height: 15vw;
+align-items: center;
+}
+.secondfoo154{
+    grid-area: 2/2/5/19;
+    display: flex!important;
+    align-items: center!important;
+    flex-direction: column!important;
+    gap: 0.6vw;
+    height: 12vw;
+}
+.logoamazon{
+    display: flex;
+    align-items: center;
+    margin-top: 1vw;
+    justify-content: center;
+}
+.amazonkaphoto img{
+object-fit: cover;
+height: 4vw;
+display: flex;
+align-items: center;
+width: 11vw;
+}
+.languagelogo{
+align-items: center;
+justify-content: center;
+display: flex;
+gap: 7.2vw;
+margin: 0%;
+}
+.countryname{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: 1.1vw;
+}
+.deshkenam{
+font-size: 1.3vw;
+white-space: nowrap;
+font-weight: 300;
+font-family: "Amazon Ember",Arial,sans-serif;
+word-spacing: 0.5vw;
+color:#DDD;
+}
+.vygg3215{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1vw;
+}
+.footerthreepart145{
+    display: grid;
+    grid-template-columns: repeat(19,1fr);
+    grid-template-rows: repeat(19,1fr);
+    background-color:#131A22 ;
+    height: 15.5vw;
+}
+.footerthreepart1d{
+    grid-area: 3/2/18/18;
+    display: flex;
+    float: none;
+    flex-direction: column;
+    gap: 1.4vw;
+    height: 10vw;
+}
+.fvbhst56ty{
+height: 19vw;
+    align-items: center;
+    display: flex;
+    gap: 7.5vw;
+}
+.phlaparthai345{
+    display: flex;
+    flex-direction: column;
+    gap: 1vw;
+    height: 9vw;
+}
+.adarkeparthai{
+    align-items: center;
+    flex-direction: column!important;
+    gap: 0.2vw;
+}
+.lastlikna89{
+    display: flex;
+    align-items: center;
+    font-size: 1.2vw;
+    font-weight: 400;
+    white-space: nowrap;
+    justify-content: flex-start;
+    color: #fff;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    
+}
+.lastlikna{
+    display: flex;
+    align-items: center;
+    font-size: 0.9vw;
+    font-weight: 300;
+    white-space: nowrap;
+    letter-spacing: 0.02vw;
+    color: #DDD;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    
+}
+.lastfooterlinehai{
+    display: flex;
+    align-items: center;
+justify-content: center;
+    gap: 1vw;
+}
+.dherr45{
+    font-size: 1.2vw;
+    font-weight: 400;
+word-spacing: 0.1vw;
+color: #fff;
+    letter-spacing: 0.02vw;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+.bhsa{ margin-top: -4px;
+    display: flex;
+    align-items: center;
+    border:1px solid #848688;
+    background-color:transparent;
+    width: 14vw;
+    height: 3.6vw;
+}
+.changebhasa{
+    margin: 0.8vw;
+    height: 3.6vw;
+    display: flex;
+    align-items: center;
+    gap: 2.5vw;
+}
+.EARTHKA{
+    display: flex;
+    align-items: center;
+    gap: 1.1vw;
+}
+.updwarrow{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: none;
+    height: 4vw;
+    width: 2vw;
+    
+}
+.uparwalaqwer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1vw;
+    margin-top: 2vw;
+}
+.nichewalahjk{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1vw;
+    margin-bottom: 2vw;
+}
+.uparwala1.css-i4bv87-MuiSvgIcon-root{
+font-size:2vw;
+width: 2.8vw;
+height: 2.8vw;
+color: #848688;
+
+}
+.uparwala2.css-i4bv87-MuiSvgIcon-root{
+    font-size:2vw;
+    width: 2.8vw;
+    height: 2.8vw;
+    color: #848688;
+    
+    }
+.photoearth{
+    color:#848688;
+    display: flex;
+    align-items: center;
+}
+.english{
+    display: flex;
+    align-items: center;
+    font-size: 1.4vw;
+    font-weight: 600;
+    color:#848688 ;
+    font-family:"Amazon Ember",Arial,sans-serif;
+}
+.fri45.css-i4bv87-MuiSvgIcon-root{
+font-size: 2vw;
+height: 3vw;
+}

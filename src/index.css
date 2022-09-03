@@ -1,0 +1,10 @@
+body,html{
+    margin: 0!important;
+    padding: 0!important;
+    box-sizing: border-box;
+    border: 0!important;
+    overscroll-behavior-y: linear;
+    overflow-x: hidden!important;
+    width: 100%;
+    background-color: #e3e4e7!important;
+  }
